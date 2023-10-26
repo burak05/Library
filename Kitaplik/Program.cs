@@ -1,5 +1,5 @@
 ﻿using System;
-//Deneme12
+
 class Kitap
 {
     public string Ad { get; set; }
